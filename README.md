@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - Building scalable web applications with **Django** and **React**
 - Developing MLM and business management systems
 - Creating responsive admin dashboards and user interfaces
+- Advanced tree view components and data visualization
 - Freelance projects focusing on e-commerce and business automation
 
 ### 🌱 Tech Stack & Skills
@@ -17,33 +18,38 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - Node.js, Express.js
 - PostgreSQL, MySQL, MongoDB
 - Redis, Celery for background tasks
+- RESTful APIs and GraphQL
 
 **Frontend Development:**
 - React.js, Next.js, TypeScript
 - HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+), jQuery
-- Responsive web design
+- JavaScript (ES6+), Framer Motion
+- Responsive web design and UI/UX
+- Advanced component libraries and state management
 
 **Tools & Technologies:**
 - Git, GitHub, GitLab
 - Docker, Linux
-- AWS, Digital Ocean
-- RESTful APIs, GraphQL
+- AWS, Digital Ocean, Vercel
+- Webpack, Vite
+- Testing frameworks
 
 ### 💼 Services I Offer
 - **Full-Stack Web Development** - End-to-end web application development
 - **API Development & Integration** - RESTful APIs and third-party integrations
 - **Database Design** - Efficient database architecture and optimization
 - **UI/UX Implementation** - Converting designs to responsive web interfaces
-- **MLM Systems** - Multi-level marketing platforms with advanced features
+- **MLM Systems** - Multi-level marketing platforms with advanced tree structures
 - **Business Automation** - Streamlining business processes through technology
+- **Custom Dashboard Development** - Admin panels with complex data visualization
 
 ### 🎯 Specializations
-- **MLM & Network Marketing Platforms**
-- **Admin Dashboards & Management Systems** 
-- **E-commerce Solutions**
-- **Financial Management Applications**
-- **Team Management & Tree View Systems**
+- **MLM & Network Marketing Platforms** with sophisticated tree view systems
+- **Admin Dashboards & Management Systems** with real-time data
+- **E-commerce Solutions** with payment integrations
+- **Financial Management Applications** 
+- **Team Management & Hierarchical Data Visualization**
+- **Complex Frontend Components** with smooth animations and interactions
 
 ### 📊 GitHub Stats
 ![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharat-kr-dev&show_icons=true&theme=dark)
@@ -52,8 +58,16 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ### 🏆 Experience Highlights
 - 3+ years of full-stack development experience
 - Successfully delivered 50+ projects for international clients
-- Expertise in building complex business logic and user management systems
+- Expert in building complex business logic and user management systems
+- Specialized in MLM systems with multi-level tree structures
 - Strong focus on clean code, performance optimization, and scalable architecture
+- Experience with both GitHub and GitLab workflows
+
+### 💻 Featured Projects
+Check out my work across different platforms:
+- **GitHub:** Complex React components and Django applications
+- **GitLab:** Enterprise-level projects and collaborative development
+- **Portfolio:** Live demonstrations of full-stack applications
 
 ### 💬 Let's Connect!
 I'm always interested in collaborating on exciting projects and helping businesses grow through technology.
@@ -63,16 +77,19 @@ I'm always interested in collaborating on exciting projects and helping business
 - Full-time remote opportunities
 - Technical consulting
 - Code reviews and mentoring
+- MLM system development
+- Custom dashboard creation
 
-📧 **Email:** [your-email@example.com]
-🔗 **LinkedIn:** [Your LinkedIn Profile]
-🌐 **Portfolio:** [Your Portfolio Website]
-💼 **Upwork/Freelancer:** [Your Profile Links]
+📧 **Email:** bharatkr.dev@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/bharat-kr-dev  
+🌐 **Portfolio:** https://bharat-portfolio-ej5m.vercel.app/  
+⚡ **GitLab:** https://gitlab.com/bharatkr.dev/  
 
 ### ⚡ Fun Facts
-- I love solving complex business problems through elegant code solutions
+- I specialize in creating complex tree view components that can handle thousands of nodes
+- Love solving algorithmic challenges in data visualization
+- Expert in building responsive admin panels that work seamlessly on all devices
 - Always learning new technologies and best practices
-- Enjoy building systems that make businesses more efficient
 - Strong believer in clean, maintainable, and well-documented code
 
 ---
