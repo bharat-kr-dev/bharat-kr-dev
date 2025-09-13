@@ -44,7 +44,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - **Custom Dashboard Development** - Admin panels with complex data visualization
 
 ### 🎯 Specializations
-
 - **Admin Dashboards & Management Systems** with real-time data
 - **E-commerce Solutions** with payment integrations
 - **Financial Management Applications** 
@@ -59,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - 3+ years of full-stack development experience
 - Successfully delivered 50+ projects for international clients
 - Expert in building complex business logic and user management systems
-- Specialized in MLM systems with multi-level tree structures
+
 - Strong focus on clean code, performance optimization, and scalable architecture
 - Experience with both GitHub and GitLab workflows
 
