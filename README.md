@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ### 🔭 What I'm Currently Working On
 - Building scalable web applications with **Django** and **React**
-- Developing MLM and business management systems
+
 - Creating responsive admin dashboards and user interfaces
 - Advanced tree view components and data visualization
 - Freelance projects focusing on e-commerce and business automation
@@ -39,12 +39,12 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - **API Development & Integration** - RESTful APIs and third-party integrations
 - **Database Design** - Efficient database architecture and optimization
 - **UI/UX Implementation** - Converting designs to responsive web interfaces
-- **MLM Systems** - Multi-level marketing platforms with advanced tree structures
+
 - **Business Automation** - Streamlining business processes through technology
 - **Custom Dashboard Development** - Admin panels with complex data visualization
 
 ### 🎯 Specializations
-- **MLM & Network Marketing Platforms** with sophisticated tree view systems
+
 - **Admin Dashboards & Management Systems** with real-time data
 - **E-commerce Solutions** with payment integrations
 - **Financial Management Applications** 
@@ -77,7 +77,7 @@ I'm always interested in collaborating on exciting projects and helping business
 - Full-time remote opportunities
 - Technical consulting
 - Code reviews and mentoring
-- MLM system development
+
 - Custom dashboard creation
 
 📧 **Email:** bharatkr.dev@gmail.com  
